@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/allProject/Coffee/static/css/main.5538721d.css",
+    "main.js": "/allProject/Coffee/static/js/main.5b037a4d.js",
+    "static/media/subMainBg.png": "/allProject/Coffee/static/media/subMainBg.2789623e157473e4342a.png",
+    "static/media/mainBg.png": "/allProject/Coffee/static/media/mainBg.e7e05c7fbf7fbe942293.png",
+    "static/media/forYouMainBg.png": "/allProject/Coffee/static/media/forYouMainBg.8dfe65f246ba5525b789.png",
+    "static/media/ourcoffeMainBg.png": "/allProject/Coffee/static/media/ourcoffeMainBg.69b5f4460c8dede57436.png",
+    "static/media/submainOurcoffe.png": "/allProject/Coffee/static/media/submainOurcoffe.b918eb6a753e9daa247c.png",
+    "static/media/forYouSubMainBg.png": "/allProject/Coffee/static/media/forYouSubMainBg.a1100d65e27a84c6a7c9.png",
+    "static/media/item3.png": "/allProject/Coffee/static/media/item3.dcb91dcba4b6b965f048.png",
+    "static/media/item1.png": "/allProject/Coffee/static/media/item1.93b7ca5e4837fd856f71.png",
+    "static/media/item2.png": "/allProject/Coffee/static/media/item2.eac7a0065dc6e158d889.png",
+    "static/media/mailLogo.svg": "/allProject/Coffee/static/media/mailLogo.76cc75be6b631b1b1b1ac4bb1ff93efe.svg",
+    "static/media/mainLogoBlack.svg": "/allProject/Coffee/static/media/mainLogoBlack.750dd53cdcf920a2a59b532c3dce1ea9.svg",
+    "static/media/subMainLogoWhite.svg": "/allProject/Coffee/static/media/subMainLogoWhite.d8ad06a77a7f633d0c2a9736d6fb4634.svg",
+    "static/media/subMainLogoBlack.svg": "/allProject/Coffee/static/media/subMainLogoBlack.a760f2dbfb6eb64a23989c9173ac42ea.svg",
+    "index.html": "/allProject/Coffee/index.html",
+    "main.5538721d.css.map": "/allProject/Coffee/static/css/main.5538721d.css.map",
+    "main.5b037a4d.js.map": "/allProject/Coffee/static/js/main.5b037a4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5538721d.css",
+    "static/js/main.5b037a4d.js"
+  ]
+}
